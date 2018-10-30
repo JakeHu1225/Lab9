@@ -3,7 +3,7 @@
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/9/">Lab 9 Description</a>
  */
-public class Employee {
+public class  Employee {
 
     private String name;
     private String manager;
